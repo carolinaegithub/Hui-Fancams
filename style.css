@@ -1,0 +1,33 @@
+* {
+  font-family: roboto, arial;
+}
+
+.container-youtube {
+    display: flex;
+    width: 800px;
+  }
+
+  .container-youtube img {
+    max-width: 100%;
+    width: 250px;
+    margin: 10px;
+  }
+
+  .title {
+    font-weight: bold;
+  }
+
+  .ytb-info {
+    margin: 0;
+    margin-bottom: 16px;
+    opacity: 0.8;
+    font-size: 14px;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+ 
+  
